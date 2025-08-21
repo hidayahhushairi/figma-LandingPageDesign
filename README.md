@@ -8,4 +8,5 @@ a brand message. Enhances user engagements by focusing on UI elements, clear lay
 - Technology Stack and Plugin : Figma, Plugin Simple Design System, images from Freepik and Google
 - Design Foucs : UI/UX Design, Product Presentation, Responsive Layout
 - Learning Outcome : Learn how to balance product images, descriptions and product button to create a user-friendly shopping experience
-- Figma Link : https://www.figma.com/proto/EE7HWEUaXLlIQHa5hVigAz/Figma-Landing-Page-Design?node-id=631-67&t=jKnyHNNPWlYnZUdl-1&starting-point-node-id=631%3A51
+- Figma Link : https://www.figma.com/proto/EE7HWEUaXLlIQHa5hVigAz/Figma-Landing-Page-Design?node-id=1669-162202&t=jKnyHNNPWlYnZUdl-1
+
